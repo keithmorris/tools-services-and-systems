@@ -20,18 +20,27 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Redis](http://redis.io/)
 * [ZeroMQ](http://zeromq.org/)
 
+
 ## A/B Testing
 
 * [Optimizely](https://www.optimizely.com/)
+* [Six Pack](http://sixpack.seatgeek.com/)
 
 ## NodeJS
-
-### Utilities
-* [GulpJS](http://gulpjs.com/)
 
 ### Services
 
 * [Fetchr](https://github.com/yahoo/fetchr)
+
+### Utilities
+* [GulpJS](http://gulpjs.com/)
+
+
+## Java
+
+### Services
+
+* [Swagger](http://swagger.io/)
 
 ## FrontEnd
 
@@ -42,4 +51,9 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Sass](http://sass-lang.com/)
 	* [Compass](http://stylus-lang.com/)
 * [Stylus](http://stylus-lang.com/)
+
+## Payments
+
+* [Braintree](https://www.braintreepayments.com/)
+* [Stripe](https://stripe.com/)
 
