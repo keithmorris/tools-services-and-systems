@@ -1,2 +1,39 @@
 # tools-services-and-systems
-A categorized list of tools, services and systems useful in connected application development
+A categorized list of tools, services and systems useful in connected application development.
+
+## System Monitoring
+
+* [New Relic](https://newrelic.com/)
+* [Pingdom](https://www.pingdom.com/)
+
+## Message Queuing/Data Store
+
+* [Apache Kafka](http://kafka.apache.org/)
+* [IronMQ](https://www.iron.io/platform/ironmq/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](http://redis.io/)
+* [ZeroMQ](http://zeromq.org/)
+
+## A/B Testing
+
+* [Optimizely](https://www.optimizely.com/)
+
+## NodeJS
+
+### Utilities
+* [GulpJS](http://gulpjs.com/)
+
+### Services
+
+* [Fetchr](https://github.com/yahoo/fetchr)
+
+## FrontEnd
+
+### CSS
+
+* [Less](http://lesscss.org/)
+* [Radium CSS in React](https://github.com/FormidableLabs/radium)
+* [Sass](http://sass-lang.com/)
+	* [Compass](http://stylus-lang.com/)
+* [Stylus](http://stylus-lang.com/)
+
