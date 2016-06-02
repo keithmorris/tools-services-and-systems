@@ -44,6 +44,14 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ## FrontEnd
 
+### Frameworks
+
+* React/Flux
+	* [Flux (Facebook)](https://facebook.github.io/flux/docs/overview.html)
+	* [Fluxible (Yahoo)](http://fluxible.io/)
+	* [React (Facebook)](https://facebook.github.io/react/)
+* [AngularJS](https://angularjs.org/)
+
 ### CSS
 
 * [Less](http://lesscss.org/)
