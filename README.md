@@ -57,3 +57,27 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Braintree](https://www.braintreepayments.com/)
 * [Stripe](https://stripe.com/)
 
+## Voice/VoIP, SMS
+
+* [Twilio](https://www.twilio.com/)
+
+## Email
+
+### Transactional
+
+* [Mailgun](https://www.mailgun.com/)
+* [Strongview/Selligent](http://www.selligent.com/products/channels/email)
+
+### Marketing
+
+* [ExactTarget (Salesforce Marketing Cloud)](https://www.marketingcloud.com/)
+
+### Hybrid
+
+* [Sendgrid](https://sendgrid.com/)
+* [SilverPop (IBM Marketing Cloud)](http://www.silverpop.com/)
+
+## Marketing Automation
+
+* [Eloqua (Oracle)](https://www.oracle.com/marketingcloud/products/marketing-automation/index.html)
+* [Pardot (Salesforce)](http://www.pardot.com/)
