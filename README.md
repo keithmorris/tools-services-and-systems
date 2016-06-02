@@ -7,6 +7,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Pagerduty](https://www.pagerduty.com/)
 * [Pingdom](https://www.pingdom.com/)
 
+## Build, Continuous Integration and Deployment
+
+* [Jenkins](https://jenkins.io/) - CI/Build orchestration
+* [Kubernetes](http://kubernetes.io/) - Deployment and scaling automation for Containerized apps
+
 ## Message Queuing/Data Store
 
 * [Apache Kafka](http://kafka.apache.org/)
