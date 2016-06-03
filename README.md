@@ -68,6 +68,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 	* [Flux (Facebook)](https://facebook.github.io/flux/docs/overview.html)
 	* [Fluxible (Yahoo)](http://fluxible.io/)
 	* [React (Facebook)](https://facebook.github.io/react/)
+	* [Vue.js](https://vuejs.org/)
 * [AngularJS](https://angularjs.org/)
 
 ### CSS
@@ -78,10 +79,20 @@ A categorized list of tools, services and systems useful in connected applicatio
 	* [Compass](http://stylus-lang.com/)
 * [Stylus](http://stylus-lang.com/)
 
+## Analytics
+
+* [Google Analytics]()
+* [Looker Business analytics](https://looker.com/)
+
 ## Payments
 
 * [Braintree](https://www.braintreepayments.com/)
 * [Stripe](https://stripe.com/)
+
+## Mapping
+
+* [Google Maps](https://maps.google.com)
+* [SmartyStreets](https://smartystreets.com/)
 
 ## Voice/VoIP, SMS
 
@@ -118,3 +129,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [New Relic](https://newrelic.com/)
 * [Pagerduty](https://www.pagerduty.com/)
 * [Pingdom](https://www.pingdom.com/)
+
+## User Background Checks
+
+* [Checkr](https://checkr.com/)
