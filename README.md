@@ -133,3 +133,9 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## User Background Checks
 
 * [Checkr](https://checkr.com/)
+
+## Compute Platforms
+
+* [AWS Lambda](https://aws.amazon.com/lambda/)
+* [OpenWhisk](https://github.com/openwhisk/openwhisk/blob/master/docs/)
+
