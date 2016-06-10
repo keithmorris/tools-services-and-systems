@@ -83,6 +83,8 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 * [Google Analytics]()
 * [Looker Business analytics](https://looker.com/)
+* [Hotjar](https://www.hotjar.com/) - User heatmaps, page interactions, conversion funnel and form completion metrics, feedback pools and surveys
+* [TowerData (Rapleaf)](http://intelligence.towerdata.com/) - Email intelligence
 
 ## Payments
 
@@ -124,11 +126,13 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 * [PingPost (Boberdoo)](http://www.boberdoo.com/ping-post-ping-tree/)
 
-## System Monitoring
+## System and Application Monitoring
 
+* [Dynatrace](http://www.dynatrace.com/en/)
 * [New Relic](https://newrelic.com/)
 * [Pagerduty](https://www.pagerduty.com/)
 * [Pingdom](https://www.pingdom.com/)
+* [Raygun](https://raygun.com/)
 
 ## User Background Checks
 
