@@ -150,4 +150,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Mesos](http://mesos.apache.org/)
 * [rkt](https://coreos.com/rkt/) - Security-minded, standards-based container engine
 
+## General Utilities
+
+### HTML Scraping/Spidering
+
+* [Scrapy](http://doc.scrapy.org/en/latest/)
+
+### Machine Monitoring
+[vtop](https://www.npmjs.com/package/vtop)
 
