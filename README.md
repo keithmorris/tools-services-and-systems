@@ -150,6 +150,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Mesos](http://mesos.apache.org/)
 * [rkt](https://coreos.com/rkt/) - Security-minded, standards-based container engine
 
+## HTTP Caching
+
+* [Akamai](https://www.akamai.com/)
+* [NGINX](https://www.nginx.com/)
+* [Varnish](https://varnish-cache.org/)
+
 ## General Utilities
 
 ### HTML Scraping/Spidering
