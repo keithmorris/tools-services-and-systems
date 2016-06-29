@@ -175,3 +175,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ### Hardware
 * [ProDisplay](http://prodisplay.com/)
+
+## Beacon, NFC, RFID, etc.
+
+* [BeaconStac (iBeacon)](http://www.beaconstac.com/)
