@@ -168,3 +168,10 @@ A categorized list of tools, services and systems useful in connected applicatio
 ### Machine Monitoring
 [vtop](https://www.npmjs.com/package/vtop)
 
+## Digital Signage
+
+### Platforms
+* [STRATACACHE](http://redux.js.org/index.html)
+
+### Hardware
+* [ProDisplay](http://prodisplay.com/)
