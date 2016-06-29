@@ -70,6 +70,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 	* [Flux (Facebook)](https://facebook.github.io/flux/docs/overview.html)
 	* [Fluxible (Yahoo)](http://fluxible.io/)
 	* [React (Facebook)](https://facebook.github.io/react/)
+	* [Redux](http://redux.js.org/index.html)
 	* [Vue.js](https://vuejs.org/)
 * [AngularJS](https://angularjs.org/)
 
