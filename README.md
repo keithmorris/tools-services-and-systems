@@ -158,7 +158,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [NGINX](https://www.nginx.com/)
 * [Varnish](https://varnish-cache.org/)
 
-## General Utilities
+## General Utilities
 
 ### HTML Scraping/Spidering
 
