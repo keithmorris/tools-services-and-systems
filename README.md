@@ -35,7 +35,6 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ### Open Source
 
-* [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting
 * [Drupal](https://www.drupal.org/) - PHP
 * [eZ Publish](http://ez.no/) - PHP
 * [Joomla](https://www.joomla.org/e) - PHP
@@ -43,6 +42,9 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Typo3](https://typo3.org/) - PHP
 * [Umbraco](https://umbraco.com/) - .NET
 * [Wordpress](https://wordpress.org/) - PHP
+
+### Platform as a Service (PaaS)
+* [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting 
 
 ## NodeJS
 
