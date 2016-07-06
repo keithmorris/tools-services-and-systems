@@ -88,6 +88,10 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Looker Business analytics](https://looker.com/)
 * [Hotjar](https://www.hotjar.com/) - User heatmaps, page interactions, conversion funnel and form completion metrics, feedback pools and surveys
 * [TowerData (Rapleaf)](http://intelligence.towerdata.com/) - Email intelligence
+ 
+## Credential Management
+* [Vault](https://www.vaultproject.io/)
+* [Secret Server](https://thycotic.com/products/secret-server/)
 
 ## Payments
 
