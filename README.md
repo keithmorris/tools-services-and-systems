@@ -137,6 +137,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## Lead Distribution
 
 * [PingPost (Boberdoo)](http://www.boberdoo.com/ping-post-ping-tree/)
+ 
+## Logging
+
+* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
+* [Splunk](http://www.splunk.com/)
 
 ## System and Application Monitoring
 
