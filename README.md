@@ -155,12 +155,13 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [AWS Lambda](https://aws.amazon.com/lambda/)
 * [OpenWhisk](https://github.com/openwhisk/openwhisk/blob/master/docs/)
 
-## Containers and Container Management
+## Infrastructure/Containers and Management
 
 * [Docker](https://www.docker.com/)
 * [Kubernetes](http://kubernetes.io/)
 * [Mesos](http://mesos.apache.org/)
 * [rkt](https://coreos.com/rkt/) - Security-minded, standards-based container engine
+* [Terraform](https://www.terraform.io/)
 
 ## HTTP Caching
 
