@@ -151,6 +151,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Pingdom](https://www.pingdom.com/)
 * [Raygun](https://raygun.com/)
 
+## Load Testing
+* [BlazeMeter](https://www.blazemeter.com/)
+* [Mindtree (Consultant)](http://www.mindtree.com/)
+* [Sosta (Consultant)](https://www.soasta.com/load-testing/)
+
 ## User Background Checks
 
 * [Checkr](https://checkr.com/)
