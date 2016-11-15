@@ -14,6 +14,16 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Jenkins](https://jenkins.io/) - CI/Build orchestration
 * [Kubernetes](http://kubernetes.io/) - Deployment and scaling automation for Containerized apps
 
+## Hybrid Application Development
+
+### Desktop
+
+* [Electron](http://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+
+### Mobile
+
+* [Ionic Framework](http://ionicframework.com/) - Angular 1.x based hybrid mobile app framework
+
 ## Message Queuing/Data Store
 
 * [Apache Kafka](http://kafka.apache.org/)
