@@ -10,7 +10,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ## Build, Continuous Integration and Deployment
 
-* [Concourse CI](https://concourse.ci/)
+* [Concourse CI](https://concourse.ci/) - CI/Build orchestration
 * [Jenkins](https://jenkins.io/) - CI/Build orchestration
 * [Kubernetes](http://kubernetes.io/) - Deployment and scaling automation for Containerized apps
 
