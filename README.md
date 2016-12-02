@@ -98,6 +98,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 	* [Compass](http://stylus-lang.com/)
 * [Stylus](http://stylus-lang.com/)
 
+### Static Site Generators
+
+* [Grow.io](http://grow.io/)
+* [Jekyll](https://jekyllrb.com/)
+
 ## Analytics
 
 * [Google Analytics]()
