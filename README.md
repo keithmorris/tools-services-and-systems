@@ -57,6 +57,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ### Headless/API/Hosted CMS
 
+* [CloudCMS](https://www.cloudcms.com/)
 * [Contentful](https://www.contentful.com/)
 * [Prismic](https://prismic.io)
  
