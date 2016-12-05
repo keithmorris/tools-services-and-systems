@@ -54,6 +54,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Typo3](https://typo3.org/) - PHP
 * [Umbraco](https://umbraco.com/) - .NET
 * [Wordpress](https://wordpress.org/) - PHP
+
+### Headless/API/Hosted CMS
+
+* [Contentful](https://www.contentful.com/)
+* [Prismic](https://prismic.io)
  
 ## ECommerce Platforms
 
