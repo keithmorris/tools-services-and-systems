@@ -175,6 +175,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ## Load Testing
 * [BlazeMeter](https://www.blazemeter.com/)
+* [Locust.io](http://locust.io/)
 * [Mindtree (Consultant)](http://www.mindtree.com/)
 * [Sosta (Consultant)](https://www.soasta.com/load-testing/)
 
