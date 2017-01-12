@@ -123,6 +123,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Grow.io](http://grow.io/)
 * [Jekyll](https://jekyllrb.com/)
 
+### Testing Tools
+
+* [Chai Assertion Library](http://chaijs.com/)
+* [Mocha](https://mochajs.org/)
+* [Nightwatch.js](http://nightwatchjs.org/)
+
 ## Analytics
 
 * [Google Analytics]()
