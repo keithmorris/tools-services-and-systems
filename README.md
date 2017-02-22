@@ -77,6 +77,8 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## ECommerce Platforms
 
 * [Hybris](https://www.hybris.com/en/)
+* [Insite Commerce](http://www.insitesoft.com/)
+* [OrderCloud](https://ordercloud.io/)
 
 ### Platform as a Service (PaaS)
 * [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting 
