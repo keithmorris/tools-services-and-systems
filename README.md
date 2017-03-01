@@ -83,6 +83,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 ### Platform as a Service (PaaS)
 * [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting 
 
+## Conversational Interfaces/Natural Language Processing
+
+* [API.ai]()
+* [Pypestream](https://www.pypestream.com/)
+* [Wit.ai](https://wit.ai/)
+
 ## NodeJS
 
 ### Services
