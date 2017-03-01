@@ -85,7 +85,8 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ## Conversational Interfaces/Natural Language Processing
 
-* [API.ai]()
+* [API.ai](https://api.ai/)
+* [Chatfuel](https://chatfuel.com/)
 * [Pypestream](https://www.pypestream.com/)
 * [Wit.ai](https://wit.ai/)
 
