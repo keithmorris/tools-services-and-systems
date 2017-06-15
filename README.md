@@ -253,3 +253,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [BeaconStac (iBeacon)](http://www.beaconstac.com/)
 * [Eddystone (Google Specification)](https://developers.google.com/beacons/) - BLE
 * [iBeacon (Apple Specification)](https://developer.apple.com/ibeacon/) - BLE
+
+## Mapping
+
+* [Coast2Coast Google Indoor mapping](http://coast2coast.net/)
