@@ -142,6 +142,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Chai Assertion Library](http://chaijs.com/)
 * [Mocha](https://mochajs.org/)
 * [Nightwatch.js](http://nightwatchjs.org/)
+* [Percy - Continuous visual reviews for web apps](https://percy.io/)
 
 ## Analytics
 
