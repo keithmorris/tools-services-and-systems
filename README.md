@@ -88,10 +88,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 ### Platform as a Service (PaaS)
 * [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting 
 
-## Messaging, Chat, Conversational Interfaces, & Natural Language Processing
+## AI, Messaging, Chat, Conversational Interfaces, & Natural Language Processing (NLP)
 
 * [Chatfuel](https://chatfuel.com/)
 * [DialogFlow (formerly API.ai)](https://dialogflow.com/)
+* [Layer6.ai](https://layer6.ai/)
 * [Pypestream](https://www.pypestream.com/)
 * [Smooch.io](https://smooch.io/)
 * [Wit.ai](https://wit.ai/)
