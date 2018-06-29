@@ -252,6 +252,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ### Platforms
 * [STRATACACHE](http://redux.js.org/index.html)
+* [Scala](https://scala.com/)
 
 ### Hardware
 * [ProDisplay](http://prodisplay.com/)
