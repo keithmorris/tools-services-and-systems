@@ -80,6 +80,15 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Insite Commerce](http://www.insitesoft.com/)
 * [OrderCloud](https://ordercloud.io/)
 
+## Product Information Management (PIM)
+
+* [Salsify](https://www.salsify.com/)
+
+## Payments
+
+* [Braintree](https://www.braintreepayments.com/)
+* [Stripe](https://stripe.com/)
+
 ## Property Management/Real Estate
 
 * [Sabre](http://www.sabrehospitality.com/)
@@ -156,11 +165,6 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## Credential Management
 * [Vault](https://www.vaultproject.io/)
 * [Secret Server](https://thycotic.com/products/secret-server/)
-
-## Payments
-
-* [Braintree](https://www.braintreepayments.com/)
-* [Stripe](https://stripe.com/)
 
 ## Mapping
 
