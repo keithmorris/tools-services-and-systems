@@ -45,6 +45,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Redis](http://redis.io/)
 * [ZeroMQ](http://zeromq.org/)
 
+## Serverless
+
+* [Serverless](https://serverless.com/)
+* [Serverless Event Gateway](https://serverless.com/event-gateway/)
+* [AWS Lambda](https://aws.amazon.com/lambda/)
+* [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ## A/B Testing
 
