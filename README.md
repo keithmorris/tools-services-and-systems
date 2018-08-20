@@ -79,6 +79,11 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [CloudCMS](https://www.cloudcms.com/)
 * [Contentful](https://www.contentful.com/)
 * [Prismic](https://prismic.io)
+
+## User Generated Content
+
+* [Curalate](https://www.curalate.com/)
+* [Stackla](https://stackla.com/)
  
 ## ECommerce Platforms
 
