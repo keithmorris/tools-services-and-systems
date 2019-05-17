@@ -79,6 +79,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [CloudCMS](https://www.cloudcms.com/)
 * [Contentful](https://www.contentful.com/)
 * [Prismic](https://prismic.io)
+* [Sanity.io](https://www.sanity.io)
 
 ## User Generated Content
 
