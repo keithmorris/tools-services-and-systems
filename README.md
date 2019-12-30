@@ -1,56 +1,15 @@
-# tools-services-and-systems
+# Tools Services and Systems
+
 A categorized list of tools, services and systems useful in connected application development.
 
-## Source Control
+* [Source Control](sections/source-control.md)
+* [Build, Continuous Integration and Deployment](sections/build-cicd-deployment.md)
+* [Prototyping Tools](sections/prototyping-tools.md)
+* [Hybrid Application Development](sections/hybrid-application-development.md)
+* [Message Queuing/Data Store](sections/message-queuing.md)
+* [Serverless](sections/serverless.md)
 
-* [Bitbucket](https://bitbucket.org/)
-* [Bitbucket Server](https://bitbucket.org/product/server)
-* [GitLab](https://about.gitlab.com/)
-* [Github](https://github.com/)
 
-## Build, Continuous Integration and Deployment
-
-* [Concourse CI](https://concourse.ci/) - CI/Build orchestration
-* [Jenkins](https://jenkins.io/) - CI/Build orchestration
-* [Kubernetes](http://kubernetes.io/) - Deployment and scaling automation for Containerized apps
-
-## Prototyping Tools
-
-### Tools
-* [Axure](https://www.axure.com/)
-* [InVision](https://www.invisionapp.com/)
-* [JustInMind](https://www.justinmind.com/)
-* [Principle](http://principleformac.com/)
-* [Proto.io](https://proto.io)
-
-### Frameworks
-
-* [Tachyons - Quick HTML/CSS Prototyping components](http://tachyons.io/)
-
-## Hybrid Application Development
-
-### Desktop
-
-* [Electron](http://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS
-
-### Mobile
-
-* [Ionic Framework](http://ionicframework.com/) - Angular 1.x based hybrid mobile app framework
-
-## Message Queuing/Data Store
-
-* [Apache Kafka](http://kafka.apache.org/)
-* [IronMQ](https://www.iron.io/platform/ironmq/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](http://redis.io/)
-* [ZeroMQ](http://zeromq.org/)
-
-## Serverless
-
-* [Serverless](https://serverless.com/)
-* [Serverless Event Gateway](https://serverless.com/event-gateway/)
-* [AWS Lambda](https://aws.amazon.com/lambda/)
-* [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ## A/B Testing
 
@@ -213,18 +172,17 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 * [PingPost (Boberdoo)](http://www.boberdoo.com/ping-post-ping-tree/)
  
-## Logging
-
-* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
-* [Splunk](http://www.splunk.com/)
-
-## System and Application Monitoring
+## Monitoring and Logging
 
 * [Dynatrace](http://www.dynatrace.com/en/)
+* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
+* [Nagios](https://www.nagios.org/)
 * [New Relic](https://newrelic.com/)
 * [Pagerduty](https://www.pagerduty.com/)
 * [Pingdom](https://www.pingdom.com/)
 * [Raygun](https://raygun.com/)
+* [Splunk](http://www.splunk.com/)
+* [Zipkin](https://zipkin.io/)
 
 ## Load Testing
 * [BlazeMeter](https://www.blazemeter.com/)
