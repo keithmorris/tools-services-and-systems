@@ -11,4 +11,5 @@
 * [Prometheus](https://prometheus.io/)
 * [Raygun](https://raygun.com/)
 * [Splunk](http://www.splunk.com/)
+* [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Open source server agent for metrics.
 * [Zipkin](https://zipkin.io/)
