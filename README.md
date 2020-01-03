@@ -8,6 +8,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Hybrid Application Development](sections/hybrid-application-development.md)
 * [Message Queuing/Data Store](sections/message-queuing.md)
 * [Serverless](sections/serverless.md)
+* [Monitoring and Logging](sections/monitoring-logging.md)
 
 
 
@@ -171,18 +172,6 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## Lead Distribution
 
 * [PingPost (Boberdoo)](http://www.boberdoo.com/ping-post-ping-tree/)
- 
-## Monitoring and Logging
-
-* [Dynatrace](http://www.dynatrace.com/en/)
-* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
-* [Nagios](https://www.nagios.org/)
-* [New Relic](https://newrelic.com/)
-* [Pagerduty](https://www.pagerduty.com/)
-* [Pingdom](https://www.pingdom.com/)
-* [Raygun](https://raygun.com/)
-* [Splunk](http://www.splunk.com/)
-* [Zipkin](https://zipkin.io/)
 
 ## Load Testing
 * [BlazeMeter](https://www.blazemeter.com/)
