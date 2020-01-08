@@ -90,6 +90,12 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 ## Java
 
+### Runtime
+
+* [Oracle Java](https://www.java.com/)
+* [OpenJDK](https://openjdk.java.net/)
+* [Zing JVM](https://www.azul.com/products/zing/)
+
 ### Services
 
 * [Swagger](http://swagger.io/)
