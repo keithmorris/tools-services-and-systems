@@ -9,6 +9,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Message Queuing/Data Store](sections/message-queuing.md)
 * [Serverless](sections/serverless.md)
 * [Monitoring and Logging](sections/monitoring-logging.md)
+* [Cloud Platforms and Tools](sections/cloud-platforms.md)
 
 
 
@@ -199,6 +200,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Docker](https://www.docker.com/)
 * [Kubernetes](http://kubernetes.io/)
 * [Mesos](http://mesos.apache.org/)
+* [Pivotal Container Service (PKS)](https://pivotal.io/platform/pivotal-container-service)
 * [rkt](https://coreos.com/rkt/) - Security-minded, standards-based container engine
 * [Terraform](https://www.terraform.io/)
 
