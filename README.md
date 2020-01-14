@@ -2,6 +2,8 @@
 
 A categorized list of tools, services and systems useful in connected application development.
 
+## Table of Contents
+
 * [Source Control](sections/source-control.md)
 * [Build, Continuous Integration and Deployment](sections/build-cicd-deployment.md)
 * [Prototyping Tools](sections/prototyping-tools.md)
