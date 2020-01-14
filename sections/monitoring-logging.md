@@ -4,6 +4,7 @@
 
 * [Bluemedora](https://bluemedora.com/) - monitoring aggregations
 * [Dynatrace](http://www.dynatrace.com/en/)
+* [Grafana](https://grafana.com/)
 * [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
 * [Instana](https://www.instana.com/) - APM for microservices
 * [Nagios](https://www.nagios.org/)
