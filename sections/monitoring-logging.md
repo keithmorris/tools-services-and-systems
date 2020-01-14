@@ -6,6 +6,7 @@
 * [Dynatrace](http://www.dynatrace.com/en/)
 * [Grafana](https://grafana.com/)
 * [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
+* [InfluxDB](https://www.influxdata.com/) - Timeseries monitoring
 * [Instana](https://www.instana.com/) - APM for microservices
 * [Nagios](https://www.nagios.org/)
 * [New Relic](https://newrelic.com/) - End-to-end programmable observability platform
