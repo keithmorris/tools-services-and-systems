@@ -5,9 +5,10 @@
 * [Bluemedora](https://bluemedora.com/) - monitoring aggregations
 * [Dynatrace](http://www.dynatrace.com/en/)
 * [Grafana](https://grafana.com/)
-* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
+* [Honeycomb.io](https://www.honeycomb.io/microservices/) - Microservices monitoring
 * [InfluxDB](https://www.influxdata.com/) - Timeseries monitoring
 * [Instana](https://www.instana.com/) - APM for microservices
+* [Logstash/Elasticsearch/Kibana (ELK)](https://www.elastic.co/)
 * [Nagios](https://www.nagios.org/)
 * [New Relic](https://newrelic.com/) - End-to-end programmable observability platform
 * [Pagerduty](https://www.pagerduty.com/)
